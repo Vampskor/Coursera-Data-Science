@@ -13,12 +13,6 @@ Quiz # | Link
 2 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz2.md)
 1 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz1.md)
 
-## Contributors
-FirstName | LastName | Email
---- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
-
 ## Blog Posts on the Specialization | John Hopkins Coursera
 
 [Reproducible Research (JHU Coursera)](https://medium.com/@GalarnykMichael/reproducible-research-jhu-coursera-course-5-ad0188bfc53b "Review + data.table")
