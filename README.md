@@ -12,12 +12,5 @@ Course Number | Course | Link to Repo | Blog
 2 |  R Programming |  [Course Repo](https://github.com/mGalarnyk/datasciencecoursera/tree/master/2_R_Programming "R Programming Repo") | [Blog](https://medium.com/@GalarnykMichael/in-progress-review-course-2-r-programming-jhu-coursera-ad27086d8438#.bzzr29fvo "Review + data.table")
 1 |  The Data Scientist's Toolbox |  [Course Repo](https://github.com/mGalarnyk/datasciencecoursera/tree/master/4_Exploratory_Data_Analysis "Data Scientist's Repo") | [Blog](https://medium.com/@GalarnykMichael/review-course-1-the-data-scientists-toolbox-jhu-coursera-4d7459458821#.5jpg133ln "Review + Going over Parts of Quiz")
 
-## Contributors
-Github Username | Profile Page | Youtube Channel
---- | --- | ---
-mGalarnyk | [Github Profile](https://github.com/mGalarnyk) | [Michael Galarnyk](https://www.youtube.com/c/MichaelGalarnyk)
-randerson112358 | [Github Profile](https://github.com/randerson112358) | [Randerson112358](https://www.youtube.com/channel/UCaV_0qp2NZd319K4_K8Z5SQ)
-Submit |  Pull Request | Your Github Profile Here
-
 ## License
 Anyone may contribute after each assignment is turned in and graded. Feel free to submit a pull request. 
