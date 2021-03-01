@@ -10,12 +10,6 @@ Quiz # | Link
 --- | --- 
 1 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/9_Developing_Data_Products/quizzes/week1quiz1.md)
 
-## Contributors
-FirstName | LastName | Email
---- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
-
 ## Blog Posts on the Specialization | John Hopkins Coursera
 
 [Reproducible Research (JHU Coursera)](https://medium.com/@GalarnykMichael/reproducible-research-jhu-coursera-course-5-ad0188bfc53b "Review + data.table")
